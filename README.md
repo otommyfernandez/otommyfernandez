@@ -1,7 +1,14 @@
 ### Hi there 👋
 
- i work on spacex, tesal, etc someone call me elon musk 
-**otommyfernandez/otommyfernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ i work on spacex, tesal, etc someone call me elon musk, i could in:
+Javascript.
+Go.
+Kotlin.
+Python.
+Lenguaje C / C++
+Scala.
+Ruby.
+
 
 Here are some ideas to get you started:
 
